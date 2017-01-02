@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">स्मार्ट डॉक्टर याद दिलाने के लिए आपका स्वागत है</string>
+    <string name="app_name">स्मार्ट डॉक्टर अनुस्मारक</string>
+    <string name="action_settings">सेटिंग</string>
+    <string name="title_activity_set_time">निर्धारित समय</string>
+    <string name="setTime">समय निर्धारित है :</string>
+    <string name="key_value">कुंजी के स्थान</string>
+    <string name="title_activity_show_history">दिखाएँ इतिहास गतिविधि</string>
+    <string name="title_activity_set_phone_number">फोन नंबर गतिविधि सेट</string>
+    <string name="title_activity_dialog">संवाद गतिविधि</string>
+    <string name="title_activity_confirmation">पुष्टिकरण गतिविधि</string>
+    
+    <string name="item1">चिकित्सा का नाम:</string>
+    <string name="item2">चिकित्सा नाम में टाइप करें</string>
+    <string name="item3">मात्रा बनाने की विधि</string>    
+    <string name="item4">तिथि निर्धारित करने के लिए बटन पर क्लिक करें :</string>
+    <string name="item5">सेट अनुस्मारक दिनांक</string>
+    <string name="item6">समय निर्धारित करने के लिए बटन पर क्लिक करें :</string>
+    <string name="item7">अनुस्मारक समय निर्धारित</string>
+    <string name="item8">बचाने के लिए अनुस्मारक - बार</string>
+    <string name="item9">अनुस्मारक निर्धारित समय - रोज की</string>
+    
+    <string name="item10">आप दवा ले लिया है?</string>
+    <string name="item11">नहीं</string>
+    <string name="item12">हाँ</string>
+        
+    <string name="item13">आप संपर्क करना चाहते हैं फ़ोन नंबर लिखें</string>
+    <string name="item14">बचाने के लिए फोन नंबर</string>
+       
+</resources>

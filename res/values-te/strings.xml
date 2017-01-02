@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">తెలివైన మెడిసిన్ రిమైండరు కు స్వాగతం</string>
+    <string name="app_name">తెలివైన మెడిసిన్ రిమైండరు</string>
+    <string name="action_settings">మెడికల్ రిమైండర్ - సవరించు</string>
+    <string name="title_activity_set_time">సెట్టింగులు</string>
+    <string name="setTime">సెట్ టైమ్</string>
+    <string name="key_value">ముఖ్య స్థానాన్ని</string>
+    <string name="title_activity_show_history">షో చరిత్ర కార్యాచరణ</string>
+    <string name="title_activity_set_phone_number">ఫోన్ నంబర్ కార్యాచరణ సెట్</string>
+    <string name="title_activity_dialog">డైలాగ్ కార్యాచరణ</string>
+    <string name="title_activity_confirmation">నిర్ధారణ కార్యాచరణ</string>
+    
+    <string name="item1">మెడిసిన్ పేరు:</string>
+    <string name="item2">మెడిసిన్ పేరు టైప్</string>
+    <string name="item3">మోతాదు</string>    
+    <string name="item4">తేదీ సెట్ బటన్ క్లిక్ చేయండి:</string>
+    <string name="item5">రిమైండర్ తేదీ సెట్</string>
+    <string name="item6">సమయం సెట్ బటన్ క్లిక్ చేయండి:</string>
+    <string name="item7">రిమైండర్ సమయం సెట్</string>
+    <string name="item8">సేవ్ మాటే ఒకసారి</string>
+    <string name="item9">సెట్ రిమైండర్ టైం డైలీ</string>
+    
+    <string name="item10">మీరు ఔషధం చేశానా ?</string>
+    <string name="item11">కాదు</string>
+    <string name="item12">అవును</string>
+        
+    <string name="item13">మీరు సంప్రదించండి అనుకుంటున్నారా ఫోన్ నంబర్ టైప్</string>
+    <string name="item14">సేవ్ ఫోన్ సంఖ్య</string>    
+    
+</resources>
